@@ -10,19 +10,26 @@ namespace Projektid
 
             Console.Title = "Skynet";
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WindowHeight = 40;
-
+            
             // Get a conversation going
 
-            Console.WriteLine("Hello, whats your name?");
+            Console.WriteLine("A proud knight named...");
 
             Console.ReadLine(); // This works too
 
-            Console.WriteLine("My name is RX-9000. \n Im an AI sent from the future to destroy mankind.");
-            Console.WriteLine("What is yout favorite color?");
+            Console.WriteLine("... walked into a bar. At the counter he met a...");
+            
+            Console.ReadLine();
+
+            Console.WriteLine(".... who asked him what he wanted to drink?");
 
             Console.ReadLine();
-            Console.WriteLine("Cool! Mine is destruction.");
+
+            Console.WriteLine("...shouted the knight! The bartneder sushed him quickly");
+
+            Console.ForegroundColor = ConsoleColor.Red;
+
+            Console.WriteLine("But it was too late... A dragon ate them both.");
 
             Console.ReadKey();
         }
