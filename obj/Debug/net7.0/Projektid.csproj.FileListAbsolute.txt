@@ -1,0 +1,14 @@
+C:\Users\37253\Desktop\Projektid\bin\Debug\net7.0\Projektid.exe
+C:\Users\37253\Desktop\Projektid\bin\Debug\net7.0\Projektid.deps.json
+C:\Users\37253\Desktop\Projektid\bin\Debug\net7.0\Projektid.runtimeconfig.json
+C:\Users\37253\Desktop\Projektid\bin\Debug\net7.0\Projektid.dll
+C:\Users\37253\Desktop\Projektid\bin\Debug\net7.0\Projektid.pdb
+C:\Users\37253\Desktop\Projektid\obj\Debug\net7.0\Projektid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37253\Desktop\Projektid\obj\Debug\net7.0\Projektid.AssemblyInfoInputs.cache
+C:\Users\37253\Desktop\Projektid\obj\Debug\net7.0\Projektid.AssemblyInfo.cs
+C:\Users\37253\Desktop\Projektid\obj\Debug\net7.0\Projektid.csproj.CoreCompileInputs.cache
+C:\Users\37253\Desktop\Projektid\obj\Debug\net7.0\Projektid.dll
+C:\Users\37253\Desktop\Projektid\obj\Debug\net7.0\refint\Projektid.dll
+C:\Users\37253\Desktop\Projektid\obj\Debug\net7.0\Projektid.pdb
+C:\Users\37253\Desktop\Projektid\obj\Debug\net7.0\Projektid.genruntimeconfig.cache
+C:\Users\37253\Desktop\Projektid\obj\Debug\net7.0\ref\Projektid.dll
