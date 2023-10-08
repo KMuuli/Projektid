@@ -6,31 +6,30 @@ namespace Projektid
     {
         static void Main(string[] args)
         {
-            // GChange the appearance
+            Random numberGen = new Random();
 
-            Console.Title = "Skynet";
-            Console.ForegroundColor = ConsoleColor.Green;
+            int roll01 = 0;
+            int roll02 = 1;
+            int attempts = 0;
+
+            Console.WriteLine("Press enter to roll the dice.");
+
+            while(roll01 != roll02){
+                Console.ReadKey();
+
+                roll01 = numberGen.Next(1, 7);
+                roll02 = numberGen.Next(1, 7);
+
+                Console.WriteLine("Roll 1 " + roll01);
+                Console.WriteLine("Roll 2: " + roll02 + "\n");
+                attempts++;
+            }
+
             
-            // Get a conversation going
 
-            Console.WriteLine("A proud knight named...");
+            Console.WriteLine("It took you " + attempts + " attempts to roll two of a kind");
 
-            Console.ReadLine(); // This works too
-
-            Console.WriteLine("... walked into a bar. At the counter he met a...");
-            
-            Console.ReadLine();
-
-            Console.WriteLine(".... who asked him what he wanted to drink?");
-
-            Console.ReadLine();
-
-            Console.WriteLine("...shouted the knight! The bartneder sushed him quickly");
-
-            Console.ForegroundColor = ConsoleColor.Red;
-
-            Console.WriteLine("But it was too late... A dragon ate them both.");
-
+            // wait before closing
             Console.ReadKey();
         }
 
